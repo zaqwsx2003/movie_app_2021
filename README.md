@@ -13,7 +13,5 @@ React JS Fundamentals Course (2021 Update!)
 5.npm start 하면 리액트 실행
 
 "만약 실행이 안된다면 아래 링크 참고"
-
-https://yts-proxy.now.sh/list_movies.json
-
+https://kim-mj.tistory.com/269
 추 후 README.md수정 
